@@ -2,3 +2,9 @@
     max-width:100%;
 max-height:100%;
 }
+
+#jumbotron{
+	background-image:url(img/limani.jpg);
+	background-attachment: fixed;
+    background-position: 0% 46%; 
+}
