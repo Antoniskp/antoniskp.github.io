@@ -22,6 +22,7 @@ body {
       color: #fff;
       padding: 100px 25px;
       font-family: Montserrat, sans-serif;
+      background-image: url("../img/kolpos.jpg");
   }
   .container-fluid {
       padding: 60px 50px;
