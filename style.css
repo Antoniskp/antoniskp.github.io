@@ -5,6 +5,7 @@ max-height:100%;
 
 #jumbotron{
 	background-image:url(img/limani.jpg);
+	background-repeat: no-repeat;
 	background-attachment: fixed;
     background-position: 0% 46%; 
 }
