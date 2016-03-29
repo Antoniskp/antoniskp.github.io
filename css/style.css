@@ -20,14 +20,15 @@ body {
   .jumbotron {
       background-color: #f4511e;
       color: #fff;
-      padding: 100px 25px;
+      padding: 200px 50px;
       font-family: Montserrat, sans-serif;
       background-image: url("../img/kolpos.jpg");
       background-attachment: fixed;
-      background-position: center; 
+      background-position: center;
+      margin-bottom: 0px;
   }
   .container-fluid {
-      padding: 60px 50px;
+      padding: 40px 40px;
   }
   .bg-grey {
       background-color: #f6f6f6;
@@ -177,4 +178,11 @@ body {
     .logo {
         font-size: 150px;
     }
+  }
+
+  .logobkg{
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/logoweb.png");
+    background-size: 50px 50px;
   }
