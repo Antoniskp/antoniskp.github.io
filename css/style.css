@@ -110,7 +110,7 @@ body {
   }
   .navbar {
       margin-bottom: 0;
-      background-color: #f4511e;
+      background-color: #083356;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -123,7 +123,7 @@ body {
       color: #fff !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-      color: #f4511e !important;
+      color: #083356 !important;
       background-color: #fff !important;
   }
   .navbar-default .navbar-toggle {
@@ -133,7 +133,7 @@ body {
   footer .glyphicon {
       font-size: 20px;
       margin-bottom: 20px;
-      color: #f4511e;
+      color: #083356;
   }
   .slideanim {visibility:hidden;}
   .slide {
