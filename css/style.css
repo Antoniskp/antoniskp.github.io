@@ -186,3 +186,7 @@ body {
     background-image: url("../img/logoweb.png");
     background-size: 50px 50px;
   }
+
+  #map {
+        height: 100%;
+      }
