@@ -20,12 +20,13 @@ body {
   .jumbotron {
       background-color: #f4511e;
       color: #fff;
-      padding: 200px 50px;
+      padding: 150px 50px;
       font-family: Montserrat, sans-serif;
       background-image: url("../img/kolpos.jpg");
       background-attachment: fixed;
       background-position: center;
       margin-bottom: 0px;
+      height: 400px;
   }
   .container-fluid {
       padding: 40px 40px;
